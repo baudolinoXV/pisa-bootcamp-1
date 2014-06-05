@@ -3,3 +3,5 @@ Introduction: I'm thinking about yet
 Author: Serena Di Giorgio  and Janet
 Data: 6-062014
 Title:rostrum
+
+Conclusions: thankas and goodbye
